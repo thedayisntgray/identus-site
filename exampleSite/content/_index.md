@@ -1,6 +1,8 @@
 ---
-title: You don't start out writing good stuff
-description: The hallway smelt of boiled cabbage and old rag mats.
+title: Building Strategic AI Solutions
+description: Ruby AI
 ---
 
-The hallway smelt of boiled cabbage and old rag mats. At one end of it a coloured poster, too large for indoor display, had been tacked to the wall. It depicted simply an enormous face, more than a metre wide: the face of a man of about forty-five, with a heavy black moustache and ruggedly handsome features. Winston made for the stairs. It was no use trying the lift. 
+Hey👋🏾,
+
+My name is Landon and I'm the founder of Identus Consulting. I help teams turn big ideas into real products. I specialize in using Ruby to create smart, scalable, and effective AI-driven applications and solutions. My focus is on developing MVPs or strategic plans that fit your business goals and get you moving quickly. Whether you're building a new MVP, need help managing a recently launched project, or looking to streamline existing operations, I'm here to build powerful solutions that grow with you.

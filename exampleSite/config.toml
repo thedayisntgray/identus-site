@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 theme = "hugo-winston-theme"
 themesDir = "themes"
-title = "Hugo Winston Theme"
+title = "Identus Consulting"
 paginate = 3
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
@@ -25,12 +25,12 @@ pygmentsUseClasses = true
   sortPostsByDateOldestFirst = false
   addDot = true
   addFrame = true
-  highlightColor = '#7b16ff'
+  highlightColor = '#FAD02C'
   baseColor = "#ffffff"
   baseOffsetColor = "#eaeaea"
   headingColor = "#1c1b1d"
   textColor = "#4e5157"
-  dotColor = "#7b16ff"
+  dotColor = "#FAD02C"
   enableGoogleFonts = true 
   googleFontsUrl = "https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap"
   fontFamilyHeading = "Poppins"
@@ -51,18 +51,13 @@ pygmentsUseClasses = true
     name = 'Home'
     url = '/'
     weight = 1
+  #[[menu.main]]
+  #  name = "Blog"
+  #  identifier = "blog"
+  #  weight = 2
+  #  url = "/posts/"
   [[menu.main]]
-    name = "Blog"
-    identifier = "blog"
-    weight = 2
-    url = "/posts/"
-  [[menu.main]]
-    name = "About"
-    identifier = "about"
+    name = "Contact"
+    identifier = "contact"
     weight = 3
-    url = "/About/"
-  [[menu.main]]
-    name = "Tags"
-    identifier = "tags"
-    weight = 4
-    url = "/tags/"
+    url = "/Contact/"
