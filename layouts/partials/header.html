@@ -1,5 +1,7 @@
 <div class='header'>
-  <a class="header-logo" href="{{ .Site.Home.RelPermalink }}">{{ .Site.Title }}</a>
+  <a class="header-logo" href="{{ .Site.Home.RelPermalink }}">
+    <img class="logo" src="{{ .Site.Data.logo.image | relURL }}" alt="Site Logo for Identus Consulting" />
+  </a>
   <div class="menu-main">
     <ul>
       {{ $currentPage := . }}

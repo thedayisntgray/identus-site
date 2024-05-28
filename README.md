@@ -1,5 +1,11 @@
 # Hugo Winston Theme
 
+Run in root directory:
+
+```
+hugo server --source=exampleSite --theme=../..
+```
+
 Hugo Winston is a bold minimal blogging theme.
 
 [Live Demo](https://hugo-winston.netlify.app/) |
